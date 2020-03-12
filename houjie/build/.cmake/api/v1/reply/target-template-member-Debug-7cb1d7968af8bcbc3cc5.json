@@ -1,0 +1,96 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "02/template/template-member"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable"
+		],
+		"files" : 
+		[
+			"02/template/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 12,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "/Users/xyc/workspace/code/cpp/houjie/build/02/template"
+				},
+				{
+					"path" : "/Users/xyc/workspace/code/cpp/houjie/02/template"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"id" : "template-member::@54de5539415738a5d5ae",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "template-member",
+	"nameOnDisk" : "template-member",
+	"paths" : 
+	{
+		"build" : "02/template",
+		"source" : "02/template"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "02/template/template-member.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

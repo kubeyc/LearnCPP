@@ -1,0 +1,1 @@
+/usr/bin/clang++  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/03-pointer-like-classes.dir/03-pointer-like-classes.cpp.o  -o 03-pointer-like-classes 

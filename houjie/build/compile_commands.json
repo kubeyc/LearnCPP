@@ -1,0 +1,107 @@
+[
+{
+  "directory": "/Users/xyc/workspace/code/cpp/houjie/build/01",
+  "command": "/usr/bin/clang++   -I/Users/xyc/workspace/code/cpp/houjie/build/01 -I/Users/xyc/workspace/code/cpp/houjie/01  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/oop-observer.dir/oop-observer.cpp.o -c /Users/xyc/workspace/code/cpp/houjie/01/oop-observer.cpp",
+  "file": "/Users/xyc/workspace/code/cpp/houjie/01/oop-observer.cpp"
+},
+{
+  "directory": "/Users/xyc/workspace/code/cpp/houjie/build/01",
+  "command": "/usr/bin/clang++   -I/Users/xyc/workspace/code/cpp/houjie/build/01 -I/Users/xyc/workspace/code/cpp/houjie/01  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/oop-template.dir/oop-template.cpp.o -c /Users/xyc/workspace/code/cpp/houjie/01/oop-template.cpp",
+  "file": "/Users/xyc/workspace/code/cpp/houjie/01/oop-template.cpp"
+},
+{
+  "directory": "/Users/xyc/workspace/code/cpp/houjie/build/01",
+  "command": "/usr/bin/clang++   -I/Users/xyc/workspace/code/cpp/houjie/build/01 -I/Users/xyc/workspace/code/cpp/houjie/01  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/oop-delegation.dir/oop-delegation.cpp.o -c /Users/xyc/workspace/code/cpp/houjie/01/oop-delegation.cpp",
+  "file": "/Users/xyc/workspace/code/cpp/houjie/01/oop-delegation.cpp"
+},
+{
+  "directory": "/Users/xyc/workspace/code/cpp/houjie/build/01",
+  "command": "/usr/bin/clang++   -I/Users/xyc/workspace/code/cpp/houjie/build/01 -I/Users/xyc/workspace/code/cpp/houjie/01  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/06-class-friend.dir/06-class-friend.cpp.o -c /Users/xyc/workspace/code/cpp/houjie/01/06-class-friend.cpp",
+  "file": "/Users/xyc/workspace/code/cpp/houjie/01/06-class-friend.cpp"
+},
+{
+  "directory": "/Users/xyc/workspace/code/cpp/houjie/build/01",
+  "command": "/usr/bin/clang++   -I/Users/xyc/workspace/code/cpp/houjie/build/01 -I/Users/xyc/workspace/code/cpp/houjie/01  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/oop-composition.dir/oop-composition.cpp.o -c /Users/xyc/workspace/code/cpp/houjie/01/oop-composition.cpp",
+  "file": "/Users/xyc/workspace/code/cpp/houjie/01/oop-composition.cpp"
+},
+{
+  "directory": "/Users/xyc/workspace/code/cpp/houjie/build/01",
+  "command": "/usr/bin/clang++   -I/Users/xyc/workspace/code/cpp/houjie/build/01 -I/Users/xyc/workspace/code/cpp/houjie/01  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/07-complex-operator.dir/07-complex-operator.cpp.o -c /Users/xyc/workspace/code/cpp/houjie/01/07-complex-operator.cpp",
+  "file": "/Users/xyc/workspace/code/cpp/houjie/01/07-complex-operator.cpp"
+},
+{
+  "directory": "/Users/xyc/workspace/code/cpp/houjie/build/01",
+  "command": "/usr/bin/clang++   -I/Users/xyc/workspace/code/cpp/houjie/build/01 -I/Users/xyc/workspace/code/cpp/houjie/01  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/oop-inheritance.dir/oop-inheritance.cpp.o -c /Users/xyc/workspace/code/cpp/houjie/01/oop-inheritance.cpp",
+  "file": "/Users/xyc/workspace/code/cpp/houjie/01/oop-inheritance.cpp"
+},
+{
+  "directory": "/Users/xyc/workspace/code/cpp/houjie/build/01",
+  "command": "/usr/bin/clang++   -I/Users/xyc/workspace/code/cpp/houjie/build/01 -I/Users/xyc/workspace/code/cpp/houjie/01  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/05-const-member-functions.dir/05-const-member-functions.cpp.o -c /Users/xyc/workspace/code/cpp/houjie/01/05-const-member-functions.cpp",
+  "file": "/Users/xyc/workspace/code/cpp/houjie/01/05-const-member-functions.cpp"
+},
+{
+  "directory": "/Users/xyc/workspace/code/cpp/houjie/build/01",
+  "command": "/usr/bin/clang++   -I/Users/xyc/workspace/code/cpp/houjie/build/01 -I/Users/xyc/workspace/code/cpp/houjie/01  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/03-ctors-initialization.dir/03-ctors-initialization.cpp.o -c /Users/xyc/workspace/code/cpp/houjie/01/03-ctors-initialization.cpp",
+  "file": "/Users/xyc/workspace/code/cpp/houjie/01/03-ctors-initialization.cpp"
+},
+{
+  "directory": "/Users/xyc/workspace/code/cpp/houjie/build/01/string",
+  "command": "/usr/bin/clang++   -I/Users/xyc/workspace/code/cpp/houjie/build/01/string -I/Users/xyc/workspace/code/cpp/houjie/01/string -I/Users/xyc/workspace/code/cpp/houjie/01/string/.  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/string-main.dir/main.cpp.o -c /Users/xyc/workspace/code/cpp/houjie/01/string/main.cpp",
+  "file": "/Users/xyc/workspace/code/cpp/houjie/01/string/main.cpp"
+},
+{
+  "directory": "/Users/xyc/workspace/code/cpp/houjie/build/02",
+  "command": "/usr/bin/clang++   -I/Users/xyc/workspace/code/cpp/houjie/build/02 -I/Users/xyc/workspace/code/cpp/houjie/02  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/20-operator-new-delete.dir/20-operator-new-delete.cpp.o -c /Users/xyc/workspace/code/cpp/houjie/02/20-operator-new-delete.cpp",
+  "file": "/Users/xyc/workspace/code/cpp/houjie/02/20-operator-new-delete.cpp"
+},
+{
+  "directory": "/Users/xyc/workspace/code/cpp/houjie/build/02",
+  "command": "/usr/bin/clang++   -I/Users/xyc/workspace/code/cpp/houjie/build/02 -I/Users/xyc/workspace/code/cpp/houjie/02  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/17-about-vptr-vtbl.dir/17-about-vptr-vtbl.cpp.o -c /Users/xyc/workspace/code/cpp/houjie/02/17-about-vptr-vtbl.cpp",
+  "file": "/Users/xyc/workspace/code/cpp/houjie/02/17-about-vptr-vtbl.cpp"
+},
+{
+  "directory": "/Users/xyc/workspace/code/cpp/houjie/build/02",
+  "command": "/usr/bin/clang++   -I/Users/xyc/workspace/code/cpp/houjie/build/02 -I/Users/xyc/workspace/code/cpp/houjie/02  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/05-function-like-classes.dir/05-function-like-classes.cpp.o -c /Users/xyc/workspace/code/cpp/houjie/02/05-function-like-classes.cpp",
+  "file": "/Users/xyc/workspace/code/cpp/houjie/02/05-function-like-classes.cpp"
+},
+{
+  "directory": "/Users/xyc/workspace/code/cpp/houjie/build/02",
+  "command": "/usr/bin/clang++   -I/Users/xyc/workspace/code/cpp/houjie/build/02 -I/Users/xyc/workspace/code/cpp/houjie/02  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/04-pointer-like-classes.dir/04-pointer-like-classes.cpp.o -c /Users/xyc/workspace/code/cpp/houjie/02/04-pointer-like-classes.cpp",
+  "file": "/Users/xyc/workspace/code/cpp/houjie/02/04-pointer-like-classes.cpp"
+},
+{
+  "directory": "/Users/xyc/workspace/code/cpp/houjie/build/02",
+  "command": "/usr/bin/clang++   -I/Users/xyc/workspace/code/cpp/houjie/build/02 -I/Users/xyc/workspace/code/cpp/houjie/02  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/03-shared-ptr.dir/03-shared-ptr.cpp.o -c /Users/xyc/workspace/code/cpp/houjie/02/03-shared-ptr.cpp",
+  "file": "/Users/xyc/workspace/code/cpp/houjie/02/03-shared-ptr.cpp"
+},
+{
+  "directory": "/Users/xyc/workspace/code/cpp/houjie/build/02",
+  "command": "/usr/bin/clang++   -I/Users/xyc/workspace/code/cpp/houjie/build/02 -I/Users/xyc/workspace/code/cpp/houjie/02  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/02-explicit-constructor.dir/02-explicit-constructor.cpp.o -c /Users/xyc/workspace/code/cpp/houjie/02/02-explicit-constructor.cpp",
+  "file": "/Users/xyc/workspace/code/cpp/houjie/02/02-explicit-constructor.cpp"
+},
+{
+  "directory": "/Users/xyc/workspace/code/cpp/houjie/build/02",
+  "command": "/usr/bin/clang++   -I/Users/xyc/workspace/code/cpp/houjie/build/02 -I/Users/xyc/workspace/code/cpp/houjie/02  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/21-operator-new-delete-placement-arguments.dir/21-operator-new-delete-placement-arguments.cpp.o -c /Users/xyc/workspace/code/cpp/houjie/02/21-operator-new-delete-placement-arguments.cpp",
+  "file": "/Users/xyc/workspace/code/cpp/houjie/02/21-operator-new-delete-placement-arguments.cpp"
+},
+{
+  "directory": "/Users/xyc/workspace/code/cpp/houjie/build/02",
+  "command": "/usr/bin/clang++   -I/Users/xyc/workspace/code/cpp/houjie/build/02 -I/Users/xyc/workspace/code/cpp/houjie/02  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/01-operator-conversion-function.dir/01-operator-conversion-function.cpp.o -c /Users/xyc/workspace/code/cpp/houjie/02/01-operator-conversion-function.cpp",
+  "file": "/Users/xyc/workspace/code/cpp/houjie/02/01-operator-conversion-function.cpp"
+},
+{
+  "directory": "/Users/xyc/workspace/code/cpp/houjie/build/02/template",
+  "command": "/usr/bin/clang++   -I/Users/xyc/workspace/code/cpp/houjie/build/02/template -I/Users/xyc/workspace/code/cpp/houjie/02/template  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/template-member.dir/template-member.cpp.o -c /Users/xyc/workspace/code/cpp/houjie/02/template/template-member.cpp",
+  "file": "/Users/xyc/workspace/code/cpp/houjie/02/template/template-member.cpp"
+},
+{
+  "directory": "/Users/xyc/workspace/code/cpp/houjie/build/02/template",
+  "command": "/usr/bin/clang++   -I/Users/xyc/workspace/code/cpp/houjie/build/02/template -I/Users/xyc/workspace/code/cpp/houjie/02/template  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/template-function.dir/template-function.cpp.o -c /Users/xyc/workspace/code/cpp/houjie/02/template/template-function.cpp",
+  "file": "/Users/xyc/workspace/code/cpp/houjie/02/template/template-function.cpp"
+},
+{
+  "directory": "/Users/xyc/workspace/code/cpp/houjie/build/02/template",
+  "command": "/usr/bin/clang++   -I/Users/xyc/workspace/code/cpp/houjie/build/02/template -I/Users/xyc/workspace/code/cpp/houjie/02/template  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11 -o CMakeFiles/template-class.dir/template-class.cpp.o -c /Users/xyc/workspace/code/cpp/houjie/02/template/template-class.cpp",
+  "file": "/Users/xyc/workspace/code/cpp/houjie/02/template/template-class.cpp"
+}
+]

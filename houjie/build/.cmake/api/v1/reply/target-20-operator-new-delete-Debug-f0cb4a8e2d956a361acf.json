@@ -1,0 +1,96 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "02/20-operator-new-delete"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable"
+		],
+		"files" : 
+		[
+			"02/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 24,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "/Users/xyc/workspace/code/cpp/houjie/build/02"
+				},
+				{
+					"path" : "/Users/xyc/workspace/code/cpp/houjie/02"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"id" : "20-operator-new-delete::@aed00f32306a486cd96b",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "20-operator-new-delete",
+	"nameOnDisk" : "20-operator-new-delete",
+	"paths" : 
+	{
+		"build" : "02",
+		"source" : "02"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "02/20-operator-new-delete.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

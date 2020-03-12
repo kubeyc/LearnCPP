@@ -1,0 +1,107 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "01/string/string-main"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"01/string/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 12,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 10,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -std=gnu++11"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "/Users/xyc/workspace/code/cpp/houjie/build/01/string"
+				},
+				{
+					"path" : "/Users/xyc/workspace/code/cpp/houjie/01/string"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/xyc/workspace/code/cpp/houjie/01/string/."
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"id" : "string-main::@782fae8aad0b4a27a180",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "string-main",
+	"nameOnDisk" : "string-main",
+	"paths" : 
+	{
+		"build" : "01/string",
+		"source" : "01/string"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "01/string/main.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

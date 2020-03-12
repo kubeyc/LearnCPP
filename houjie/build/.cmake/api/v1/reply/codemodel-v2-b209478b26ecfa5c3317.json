@@ -1,0 +1,305 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						3
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "01",
+					"childIndexes" : 
+					[
+						2
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "01",
+					"targetIndexes" : 
+					[
+						2,
+						5,
+						7,
+						8,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				},
+				{
+					"build" : "01/string",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "01/string",
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"build" : "02",
+					"childIndexes" : 
+					[
+						4
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "02",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						3,
+						4,
+						6,
+						9,
+						10,
+						11
+					]
+				},
+				{
+					"build" : "02/template",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "02/template",
+					"targetIndexes" : 
+					[
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "houjie",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "01-operator-conversion-function::@aed00f32306a486cd96b",
+					"jsonFile" : "target-01-operator-conversion-function-Debug-3243541da54d7226e4d4.json",
+					"name" : "01-operator-conversion-function",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "02-explicit-constructor::@aed00f32306a486cd96b",
+					"jsonFile" : "target-02-explicit-constructor-Debug-e81ad93d3924af623423.json",
+					"name" : "02-explicit-constructor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "03-ctors-initialization::@b6636575af0a6514c0ef",
+					"jsonFile" : "target-03-ctors-initialization-Debug-532123429737dccd250b.json",
+					"name" : "03-ctors-initialization",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "03-shared-ptr::@aed00f32306a486cd96b",
+					"jsonFile" : "target-03-shared-ptr-Debug-4b2b7c1cd9e14b2edfb0.json",
+					"name" : "03-shared-ptr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "04-pointer-like-classes::@aed00f32306a486cd96b",
+					"jsonFile" : "target-04-pointer-like-classes-Debug-2fc9b18d2d4bbf6709e1.json",
+					"name" : "04-pointer-like-classes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "05-const-member-functions::@b6636575af0a6514c0ef",
+					"jsonFile" : "target-05-const-member-functions-Debug-212f01e22e3c2129092c.json",
+					"name" : "05-const-member-functions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "05-function-like-classes::@aed00f32306a486cd96b",
+					"jsonFile" : "target-05-function-like-classes-Debug-1e9053b18269d0bfa426.json",
+					"name" : "05-function-like-classes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "06-class-friend::@b6636575af0a6514c0ef",
+					"jsonFile" : "target-06-class-friend-Debug-e1024fe97ca58e65840e.json",
+					"name" : "06-class-friend",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "07-complex-operator::@b6636575af0a6514c0ef",
+					"jsonFile" : "target-07-complex-operator-Debug-dbad89b9d783f412ed04.json",
+					"name" : "07-complex-operator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "17-about-vptr-vtbl::@aed00f32306a486cd96b",
+					"jsonFile" : "target-17-about-vptr-vtbl-Debug-ec2083d80c4c70a08151.json",
+					"name" : "17-about-vptr-vtbl",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "20-operator-new-delete::@aed00f32306a486cd96b",
+					"jsonFile" : "target-20-operator-new-delete-Debug-f0cb4a8e2d956a361acf.json",
+					"name" : "20-operator-new-delete",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "21-operator-new-delete-placement-arguments::@aed00f32306a486cd96b",
+					"jsonFile" : "target-21-operator-new-delete-placement-arguments-Debug-d8853cc2e37612a1f175.json",
+					"name" : "21-operator-new-delete-placement-arguments",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "oop-composition::@b6636575af0a6514c0ef",
+					"jsonFile" : "target-oop-composition-Debug-06d334ecbd3f5a657d68.json",
+					"name" : "oop-composition",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "oop-delegation::@b6636575af0a6514c0ef",
+					"jsonFile" : "target-oop-delegation-Debug-bd4602ffffd153f3de34.json",
+					"name" : "oop-delegation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "oop-inheritance::@b6636575af0a6514c0ef",
+					"jsonFile" : "target-oop-inheritance-Debug-f4a84002fa12a486eec0.json",
+					"name" : "oop-inheritance",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "oop-observer::@b6636575af0a6514c0ef",
+					"jsonFile" : "target-oop-observer-Debug-566aca431a550fc5335e.json",
+					"name" : "oop-observer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "oop-template::@b6636575af0a6514c0ef",
+					"jsonFile" : "target-oop-template-Debug-c91cb598962e261e8109.json",
+					"name" : "oop-template",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "string-main::@782fae8aad0b4a27a180",
+					"jsonFile" : "target-string-main-Debug-3320a16ecf4c286dd7f3.json",
+					"name" : "string-main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "template-class::@54de5539415738a5d5ae",
+					"jsonFile" : "target-template-class-Debug-e40f2015e07ed524a633.json",
+					"name" : "template-class",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "template-function::@54de5539415738a5d5ae",
+					"jsonFile" : "target-template-function-Debug-a23a5a7573b5513066ba.json",
+					"name" : "template-function",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "template-member::@54de5539415738a5d5ae",
+					"jsonFile" : "target-template-member-Debug-7cb1d7968af8bcbc3cc5.json",
+					"name" : "template-member",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/xyc/workspace/code/cpp/houjie/build",
+		"source" : "/Users/xyc/workspace/code/cpp/houjie"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
